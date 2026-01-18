@@ -1,0 +1,3 @@
+[submodule "sanketsingh.com/themes/ananke"]
+	path = sanketsingh.com/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke

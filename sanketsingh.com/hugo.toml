@@ -1,0 +1,4 @@
+baseURL = "https://thelast-one.github.io/humanblog/"
+languageCode = "en-us"
+title = "Human Blog"
+theme = "ananke"
